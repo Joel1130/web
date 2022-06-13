@@ -12,7 +12,7 @@ function getTime() {
   let pmnumber = hour - 12
 
   let year = now.getFullYear();
-  let month = now.getMonth();
+  let month = now.getMonth() + 1;
   let date = now.getDate();
   let dayNumber = now.getDay();
 
