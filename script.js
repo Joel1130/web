@@ -19,19 +19,19 @@ function getTime() {
 
 
 
-if (dayNumber = 1) {
+if (dayNumber = 0) {
   dayNumber = "일"
-}else if (dayNumber = 2) {
+}else if (dayNumber = 1) {
   dayNumber = "월"
-}else if (dayNumber = 3) {
+}else if (dayNumber = 2) {
   dayNumber = "화"
-}else if (dayNumber = 4) {
+}else if (dayNumber = 3) {
   dayNumber = "수"
-}else if (dayNumber = 5) {
+}else if (dayNumber = 4) {
   dayNumber = "목"
-}else if (dayNumber = 6) {
+}else if (dayNumber = 5) {
   dayNumber = "금"
-}else if (dayNumber = 0) {
+}else if (dayNumber = 6) {
   dayNumber = "토"
 } 
 
