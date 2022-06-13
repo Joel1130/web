@@ -13,7 +13,7 @@ function getTime() {
 
   let year = now.getFullYear();
   let month = now.getMonth();
-  let date = now.getDate();
+  let date = now.getVarDate();
   let dayNumber = now.getDay();
 
 
